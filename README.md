@@ -73,7 +73,7 @@ const chondromollikaahmed = {
     quora: "chondromollikaahmed",
     stackoverflow: "chondromollikaahmed",
                       },
- challenge: ".................."
+ challenge: ".............."
 }
 ```
 
