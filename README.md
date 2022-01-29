@@ -1,4 +1,5 @@
 ## Hi, I'm Chondromollika Ahmed! 
+
 <img src="https://github.com/JehadurRE/JehadurRE/raw/main/ch.gif">
 <br>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
@@ -7,6 +8,9 @@
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>
 Department Of <a href="https://www.aust.edu/cse">Computer Science And Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chondromollikaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="chondromollikaahmed" /> </p>
+
 
 [![Github Chondromollika Ahmed](https://img.shields.io/github/followers/chondromollikaahmed?style=social)](https://www.github.com/chondromollikaahmed)
 [![Youtube Chondromollika Ahmed](https://img.shields.io/youtube/views/cEn_1SCNrqI?style=social)](https://www.youtube.com/channel/UCuXoFeYWshZVoT-UUscTMwQ/featured)
