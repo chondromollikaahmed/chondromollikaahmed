@@ -6,7 +6,9 @@
 <img align='right' src="https://github.com/JehadurRE/JehadurRE/raw/main/dl.beatsnoop.com-1643241594.jpg" width="230">
 <p><em>Student at <a href="http://www.aust.edu">Ahsanullah University Of Science And Technology</a>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>
-Department Of <a href="https://www.aust.edu/cse">Computer Science And Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Department Of <a href="https://www.aust.edu/cse">Computer Science 
+And Engineering</a>
+<img src="https://i.giphy.com/media/VEhpX9lshFoFHNS563/giphy.webp" width="30"> 
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chondromollikaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="chondromollikaahmed" /> </p>
