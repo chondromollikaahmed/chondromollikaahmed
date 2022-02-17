@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://github.com/JehadurRE/JehadurRE/raw/main/dl.beatsnoop.com-1643241594.jpg" width="230">
 <p><em>Student at <a href="http://www.aust.edu">Ahsanullah University Of Science And Technology</a>
-<img src="https://i.giphy.com/media/Q62Wvuma3vPA7WLiOO/giphy.webp" width="100"> </br>
+<img src="https://i.giphy.com/media/Q62Wvuma3vPA7WLiOO/giphy.webp" width="150"> </br>
 Department Of <a href="https://www.aust.edu/cse">Computer Science 
 And Engineering</a>
 <img src="https://c.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif" width="40"> 
