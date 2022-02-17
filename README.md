@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>
 Department Of <a href="https://www.aust.edu/cse">Computer Science 
 And Engineering</a>
-<img src="https://i.giphy.com/media/VEhpX9lshFoFHNS563/giphy.webp" width="30"> 
+<img src="https://c.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif" width="40"> 
 </em></p>
 
 <img src="https://github.com/JehadurRE/JehadurRE/raw/main/dl.beatsnoop.com-low-1645091124.jpg" width="60"> 
