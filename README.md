@@ -108,4 +108,3 @@ const chondromollikaahmed = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chondromollikaahmed&" alt="chondromollikaahmed" /></p>
 
 
-https://github-profile-trophy.vercel.app/?username=chondromollikaahmed&column=3&margin-w=15&margin-h=15
